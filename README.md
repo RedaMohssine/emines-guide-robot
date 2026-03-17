@@ -4,7 +4,8 @@
 
 An autonomous mobile robot designed to guide visitors inside the EMINES building. Built from scratch — mechanical, electrical, and software — by a 14-person interdisciplinary team.
 
-![Robot chassis](<img width="1334" height="1780" alt="image" src="https://github.com/user-attachments/assets/fb519ccc-a7ab-4c3b-9bdf-e7488836c7e7" />)
+![Robot chassis](![IMG_20260304_172034_537](https://github.com/user-attachments/assets/3709c905-92a2-46a2-8fcd-56d058717d29)
+)
 
 ## What it does
 
