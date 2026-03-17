@@ -181,4 +181,3 @@ EMINES – School of Industrial Management
 Mohammed VI Polytechnic University (UM6P), Benguerir, Morocco
 
 # emines-guide-robot
-# emines-guide-robot
